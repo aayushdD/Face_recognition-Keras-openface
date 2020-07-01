@@ -37,6 +37,11 @@ MIT License
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
+ 
+ 
+ 
+ A link to the original facenet paper
+ https://arxiv.org/abs/1503.03832#:~:text=FaceNet%3A%20A%20Unified%20Embedding%20for%20Face%20Recognition%20and%20Clustering,-Florian%20Schroff%2C%20Dmitry&text=In%20this%20paper%20we%20present,a%20measure%20of%20face%20similarity.
 
 
 
